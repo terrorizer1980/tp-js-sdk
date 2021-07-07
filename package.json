@@ -13,7 +13,7 @@
   "author": "TokenPocket Team",
   "license": "ISC",
   "dependencies": {
-    "promise": "^8.0.1"
+    "promise": "^8.1.0"
   },
   "devDependencies": {}
 }
